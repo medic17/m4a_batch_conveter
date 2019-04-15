@@ -1,6 +1,6 @@
 @echo off
 :licence info
-echo m4a to mp3 script by Yoel Vinitsky
+echo m4a to mp3 script by medic17
 echo licenced under GNU GENERAL PUBLIC LICENSE
 echo. 
 echo copy of licence is attached
